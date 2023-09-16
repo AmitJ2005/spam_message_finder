@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="D:\anaconda\Scripts\black.exe" />
+    <option name="sdkUUID" value="cfdb8181-6cbe-4c02-98c1-828754ade51a" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (spam_message_finder)" project-jdk-type="Python SDK" />
+</project>
